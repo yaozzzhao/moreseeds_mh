@@ -1,0 +1,96 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+DefaultContentLanguage = "cn"
+title = "中储禾业（北京）商贸有限公司"
+theme = "meghna-hugo"
+summaryLength = 10
+publishDir = "docs"
+
+[taxonomies]
+  author = "中储禾业"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+	
+	[[menu.nav]]
+    name = "在线订购"
+    URL = "http://mall.moreseeds.net"
+    weight = 1
+	
+    [[menu.nav]]
+    name = "关于我们"
+    URL = "about"
+    weight = 3
+
+    [[menu.nav]]
+    name = "产品介绍"
+    URL = "services"
+    weight = 2
+
+    [[menu.nav]]
+    name = "联系我们"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "主页"
+logo = "images/logo.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    #icon = "tf-ion-play"
+    heading = "墨籽 - 冀紫439黑小麦"
+    content= "冀紫439黑小麦粉系列产品，高血糖人群的注视，让高血糖人群无需再挨饿。目前唯一能够控制糖尿病人餐后血糖的新品种；被国家农业部农产品质量安全中心审定为“无公害农产品”。"
+    btn = true
+    btnText="了解更多"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "墨籽 - 让糖尿病人不再挨饿"
+    content = "这么好的产品，你还不来他二十吨？"
+    btnURL = "#contact-us"
+    btnText = "与我们联系"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+    #    [[params.counter.counterItem]]
+     #   title = "Happy Clients"
+      #  icon = "tf-ion-android-happy"
+       # count = "320"
+
+        #[[params.counter.counterItem]]
+        #title = "Projects completed"
+        #icon = "tf-ion-archive"
+        #count = "565"
+
+        #[[params.counter.counterItem]]
+        #title = "Positive feedback"
+        #icon = "tf-ion-thumbsup"
+        #count = "95"
+
+        #[[params.counter.counterItem]]
+        #title = "Cups of Coffee"
+        #icon = "tf-ion-coffee"
+        #count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "中储禾业（北京）商贸有限公司"
+        copyrightURL = "http://www.moreseeds.net"
+

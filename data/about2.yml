@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : 冀紫439黑麦面粉
+description : 为了研究富铬黑小麦的保健价值，我们公司通过河北省人民医院，协和医院等权威部门临床实验，测定食品对糖尿病患者餐后血糖的影响。
+description2 : 从两方面证明冀紫439的保健价值。研究得出
+aboutItem : 
+  - icon : tf-circle-compass
+    title : 1. 生糖指数低
+    content : 冀紫439面粉生糖指数（GI）为74.66，混合白小麦生糖指数（GI）为92.94。冀紫439面粉生糖指数比白小麦面粉降低了19.7％，为中等升糖指数。
+    
+  - icon : tf-hotairballoon
+    title : 2 .血糖控制佳
+    content : 经过多个Ⅱ型糖尿病人食用后观察发现，每顿饭食用本黑小麦面粉3两熟食，2小时血糖增加2.46。而吃等量的普通面粉熟食,血糖增加7.88。吃等量大米，血糖增加6，证明冀紫439具有一定的控制血糖作用。

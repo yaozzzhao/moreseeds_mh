@@ -1,0 +1,21 @@
+enable : true
+heading : 联系
+headingSpan : 我们
+title : 
+content : 
+enable_maps : true
+mapLatitude : 39.834887
+mapLongitude: 116.378032
+contactDetails :
+  - icon : tf-map-pin
+    info : "北京市丰台区马家堡路180号3层351-1"
+    
+  - icon : tf-ion-iphone
+    info : "满经理: 18010269582"
+    
+  - icon : tf-ion-iphone
+    info : "高经理: 18010269586"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: 18010269586@139.com"
+    

@@ -1,0 +1,15 @@
+enable : true
+heading : 关于
+headingSpan : 我们
+aboutItem : 
+- icon : tf-tools
+  title : 科技创新
+  content : 科技型中小企业
+
+- icon : tf-strategy
+  title : 优质农业
+  content : 写点吹牛逼的话
+
+- icon : tf-anchor2
+  title : 文明诚信
+  content : 文明诚信奖状
