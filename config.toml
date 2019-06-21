@@ -1,6 +1,6 @@
 baseURL = "https://yaozzzhao.github.io/moreseeds_mh/"
-languageCode = "zh-cn"
-DefaultContentLanguage = "cn"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "中储禾业（北京）商贸有限公司"
 theme = "meghna-hugo"
 summaryLength = 10
@@ -26,7 +26,7 @@ publishDir = "docs"
 
     [[menu.nav]]
     name = "产品介绍"
-    URL = "services"
+    URL = "blog"
     weight = 2
 
     [[menu.nav]]
