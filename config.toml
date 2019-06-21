@@ -16,7 +16,7 @@ publishDir = "docs"
 	
 	[[menu.nav]]
     name = "在线订购"
-    URL = "services"
+    URL = "https://mall.moreseeds.net"
     weight = 1
 	
     [[menu.nav]]
@@ -55,7 +55,7 @@ custom_css = ["css/custom.css"]
     content= "冀紫439黑小麦粉系列产品，高血糖人群的注视，让高血糖人群无需再挨饿。目前唯一能够控制糖尿病人餐后血糖的新品种；被国家农业部农产品质量安全中心审定为“无公害农产品”。"
     btn = true
     btnText="了解更多"
-    btnURL="#services"
+    btnURL="#blog"
 
     # call to action
     [params.cta]

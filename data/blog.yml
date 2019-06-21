@@ -1,5 +1,5 @@
 enable : true
-sharing : true
+sharing : false
 staticmanComments:
   enable: false
   notifications: true
