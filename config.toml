@@ -43,7 +43,7 @@ gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSp
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-143024487-1"
 custom_css = ["css/custom.css"]
 
     # Banner Section
