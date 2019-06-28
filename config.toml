@@ -16,7 +16,7 @@ publishDir = "docs"
 	
 	[[menu.nav]]
     name = "在线订购"
-    URL = "https://mall.moreseeds.net"
+    URL = "https://shop488970270.taobao.com"
     weight = 1
 	
     [[menu.nav]]
